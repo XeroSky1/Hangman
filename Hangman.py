@@ -4,16 +4,31 @@ import random
 
 # Predefinēts vārdu saraksts minēšanai. Datu glabasanas tips
 word_list = [
-    'telefons',
-    'dators',    
-    'laptops',   
-    'planšete',  
+    'dators',
+    'monitors',    
+    'tastatūra',   
+    'pelīte',  
+    'skeneris',
+    'printeris',
+    'modēms',
+    'maršrutētājs',
+    'operētājsistēma',
+    'programmatūra',
+    'procesors',
     'serveris',
-    'rūteris',
-    'datorpelīte',
-    'tīkls',
+    'ekrāns',
+    'akumulators',
+    'antivīruss',
+    'internets',
+    'datorspēle',
+    'datorgrafika',
+    'algoritms',
     'programma',
-    'klaviatūra'
+    'telefons',
+    'planšete',
+    'kods',
+    'robots',
+    'kamera'
 ]
 
 secret_word = ''  # Mainīgais glabās minamo vārdu
